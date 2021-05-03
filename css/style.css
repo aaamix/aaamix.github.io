@@ -114,7 +114,8 @@ main {
     width: 100%;
     height: 260px;
     object-fit: cover;
-    border-radius: 40% 70% 50% 30%/50%;
+   /*  border-radius: 40% 70% 50% 30%/50%;*/
+  
 }
 .btn {
     text-align: right;
